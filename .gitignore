@@ -15,7 +15,6 @@ target/
 .DS_Store
 dependency-reduced-pom.xml
 dev-server/
-.mvn/
 
 # Misc
 
