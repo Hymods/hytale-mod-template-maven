@@ -1,0 +1,22 @@
+# IntelliJ
+*.iml
+.idea/
+
+# Eclipse
+.settings/
+.project
+.classpath
+
+# VSCode
+.vscode/
+
+# Common
+target/
+.DS_Store
+dependency-reduced-pom.xml
+dev-server/
+.mvn/
+
+# Misc
+
+# ... Add anything else you might need here :D

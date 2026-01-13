@@ -1,0 +1,18 @@
+{
+	"Group": "${project.groupId}",
+	"Name": "${project.name}",
+	"Version": "${project.version}",
+	"Description": "My cool mod!",
+	"Authors": [
+		{
+			"Name": "JohnDoe"
+		}
+	],
+	"Website": "example.com",
+	"ServerVersion": "*",
+	"Dependencies": {},
+	"OptionalDependencies": {},
+	"DisabledByDefault": false,
+	"Main": "com.example.myplugin.MyPlugin",
+	"IncludesAssetPack": true
+}
